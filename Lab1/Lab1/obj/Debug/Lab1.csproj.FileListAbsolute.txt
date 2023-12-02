@@ -1,0 +1,16 @@
+D:\Study\Prog\Lab1p1\Lab1\obj\Debug\Lab1.csproj.AssemblyReference.cache
+D:\Study\Prog\Lab1p1\Lab1\obj\Debug\Lab1.csproj.SuggestedBindingRedirects.cache
+D:\Study\Prog\Lab1p1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+D:\Study\Prog\Lab1p1\Lab1\bin\Debug\Lab1.exe.config
+D:\Study\Prog\Lab1p1\Lab1\bin\Debug\Lab1.exe
+D:\Study\Prog\Lab1p1\Lab1\bin\Debug\Lab1.pdb
+D:\Study\Prog\Lab1p1\Lab1\obj\Debug\Lab1.exe
+D:\Study\Prog\Lab1p1\Lab1\obj\Debug\Lab1.pdb
+D:\Study\Prog\Lab1\Lab1\bin\Debug\Lab1.exe.config
+D:\Study\Prog\Lab1\Lab1\bin\Debug\Lab1.exe
+D:\Study\Prog\Lab1\Lab1\bin\Debug\Lab1.pdb
+D:\Study\Prog\Lab1\Lab1\obj\Debug\Lab1.csproj.AssemblyReference.cache
+D:\Study\Prog\Lab1\Lab1\obj\Debug\Lab1.csproj.SuggestedBindingRedirects.cache
+D:\Study\Prog\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+D:\Study\Prog\Lab1\Lab1\obj\Debug\Lab1.exe
+D:\Study\Prog\Lab1\Lab1\obj\Debug\Lab1.pdb

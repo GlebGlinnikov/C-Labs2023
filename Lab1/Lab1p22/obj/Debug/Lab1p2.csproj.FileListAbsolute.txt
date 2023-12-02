@@ -1,0 +1,8 @@
+D:\Study\Prog\Lab1p1\Lab1p22\bin\Debug\Lab1p22.exe.config
+D:\Study\Prog\Lab1p1\Lab1p22\bin\Debug\Lab1p22.exe
+D:\Study\Prog\Lab1p1\Lab1p22\bin\Debug\Lab1p22.pdb
+D:\Study\Prog\Lab1p1\Lab1p22\obj\Debug\Lab1p2.csproj.AssemblyReference.cache
+D:\Study\Prog\Lab1p1\Lab1p22\obj\Debug\Lab1p2.csproj.SuggestedBindingRedirects.cache
+D:\Study\Prog\Lab1p1\Lab1p22\obj\Debug\Lab1p2.csproj.CoreCompileInputs.cache
+D:\Study\Prog\Lab1p1\Lab1p22\obj\Debug\Lab1p22.exe
+D:\Study\Prog\Lab1p1\Lab1p22\obj\Debug\Lab1p22.pdb
