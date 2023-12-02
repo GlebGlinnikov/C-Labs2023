@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Study\\Prog\\Lab2\\WebApplication2\\WebApplication.csproj": {}
+    "D:\\Study\\Prog\\Lab2\\WebApplication2\\Lab4.csproj": {}
   },
   "projects": {
     "D:\\Study\\Prog\\Lab2\\Lab2\\Lab2-3.csproj": {
@@ -19,12 +19,12 @@
         "net472": {}
       }
     },
-    "D:\\Study\\Prog\\Lab2\\WebApplication2\\WebApplication.csproj": {
+    "D:\\Study\\Prog\\Lab2\\WebApplication2\\Lab4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Study\\Prog\\Lab2\\WebApplication2\\WebApplication.csproj",
-        "projectName": "WebApplication",
-        "projectPath": "D:\\Study\\Prog\\Lab2\\WebApplication2\\WebApplication.csproj",
+        "projectUniqueName": "D:\\Study\\Prog\\Lab2\\WebApplication2\\Lab4.csproj",
+        "projectName": "Lab4",
+        "projectPath": "D:\\Study\\Prog\\Lab2\\WebApplication2\\Lab4.csproj",
         "packagesPath": "C:\\Users\\46975\\.nuget\\packages\\",
         "outputPath": "D:\\Study\\Prog\\Lab2\\WebApplication2\\obj\\",
         "projectStyle": "PackageReference",

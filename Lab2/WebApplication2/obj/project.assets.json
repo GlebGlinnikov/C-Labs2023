@@ -108,13 +108,13 @@
           "Microsoft.AspNetCore.App"
         ]
       },
-      "Lab2/1.0.0": {
+      "Lab2-3/1.0.0": {
         "type": "project",
         "compile": {
-          "bin/placeholder/Lab2.dll": {}
+          "bin/placeholder/Lab2-3.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Lab2.dll": {}
+          "bin/placeholder/Lab2-3.dll": {}
         }
       }
     }
@@ -461,15 +461,15 @@
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
     },
-    "Lab2/1.0.0": {
+    "Lab2-3/1.0.0": {
       "type": "project",
-      "path": "../Lab2/Lab2.csproj",
-      "msbuildProject": "../Lab2/Lab2.csproj"
+      "path": "../Lab2/Lab2-3.csproj",
+      "msbuildProject": "../Lab2/Lab2-3.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
-      "Lab2 >= 1.0.0",
+      "Lab2-3 >= 1.0.0",
       "Microsoft.AspNetCore.OpenApi >= 7.0.5",
       "Swashbuckle.AspNetCore >= 6.4.0"
     ]
@@ -480,9 +480,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Study\\Prog\\Lab2\\WebApplication2\\WebApplication.csproj",
-      "projectName": "WebApplication",
-      "projectPath": "D:\\Study\\Prog\\Lab2\\WebApplication2\\WebApplication.csproj",
+      "projectUniqueName": "D:\\Study\\Prog\\Lab2\\WebApplication2\\Lab4.csproj",
+      "projectName": "Lab4",
+      "projectPath": "D:\\Study\\Prog\\Lab2\\WebApplication2\\Lab4.csproj",
       "packagesPath": "C:\\Users\\46975\\.nuget\\packages\\",
       "outputPath": "D:\\Study\\Prog\\Lab2\\WebApplication2\\obj\\",
       "projectStyle": "PackageReference",
@@ -501,8 +501,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\Study\\Prog\\Lab2\\Lab2\\Lab2.csproj": {
-              "projectPath": "D:\\Study\\Prog\\Lab2\\Lab2\\Lab2.csproj"
+            "D:\\Study\\Prog\\Lab2\\Lab2\\Lab2-3.csproj": {
+              "projectPath": "D:\\Study\\Prog\\Lab2\\Lab2\\Lab2-3.csproj"
             }
           }
         }
