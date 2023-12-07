@@ -7,16 +7,16 @@ namespace Lab2
     [Route("[controller]")]
     public class Controller : ControllerBase
     {
-        private static readonly MarkList list = new MarkList();
+        public static MarkList list = new MarkList();
 
         [HttpGet(Name = "GetMark")]
-        public Mark GetNum(int n)
+        public Mark GetMark(int n)
         {
             return list.GetMark(n);
         }
 
         [HttpPost(Name = "AddMark")]
-        public IActionResult Add(double a, double b, double c)
+        public IActionResult AddMark(double a, double b, double c)
         {
             Mark m = new Mark(a,b,c);
             list.add(m);

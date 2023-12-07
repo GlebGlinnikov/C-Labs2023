@@ -9,9 +9,9 @@ using System.Xml.Serialization;
 
 namespace Lab2
 {
-    class Program
+    public class Program
     {
-        private static MarkList history;   //Список сохранённых решений
+        public static MarkList history;   //Список сохранённых решений
         private static Context db = new Context(); //Ссылка на бд
 
         static void Main(string[] args)

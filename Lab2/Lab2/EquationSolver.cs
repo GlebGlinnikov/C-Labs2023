@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Lab2
 {
-    class EquationSolver
+    public class EquationSolver
     {
         public static double[] SolveLinear(double k, double b)
         {

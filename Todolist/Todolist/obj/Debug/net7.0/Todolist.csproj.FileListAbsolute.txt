@@ -1,0 +1,15 @@
+D:\Study\Prog\Todolist\Todolist\bin\Debug\net7.0\Todolist.exe
+D:\Study\Prog\Todolist\Todolist\bin\Debug\net7.0\Todolist.deps.json
+D:\Study\Prog\Todolist\Todolist\bin\Debug\net7.0\Todolist.runtimeconfig.json
+D:\Study\Prog\Todolist\Todolist\bin\Debug\net7.0\Todolist.dll
+D:\Study\Prog\Todolist\Todolist\bin\Debug\net7.0\Todolist.pdb
+D:\Study\Prog\Todolist\Todolist\obj\Debug\net7.0\Todolist.csproj.AssemblyReference.cache
+D:\Study\Prog\Todolist\Todolist\obj\Debug\net7.0\Todolist.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Prog\Todolist\Todolist\obj\Debug\net7.0\Todolist.AssemblyInfoInputs.cache
+D:\Study\Prog\Todolist\Todolist\obj\Debug\net7.0\Todolist.AssemblyInfo.cs
+D:\Study\Prog\Todolist\Todolist\obj\Debug\net7.0\Todolist.csproj.CoreCompileInputs.cache
+D:\Study\Prog\Todolist\Todolist\obj\Debug\net7.0\Todolist.dll
+D:\Study\Prog\Todolist\Todolist\obj\Debug\net7.0\refint\Todolist.dll
+D:\Study\Prog\Todolist\Todolist\obj\Debug\net7.0\Todolist.pdb
+D:\Study\Prog\Todolist\Todolist\obj\Debug\net7.0\Todolist.genruntimeconfig.cache
+D:\Study\Prog\Todolist\Todolist\obj\Debug\net7.0\ref\Todolist.dll

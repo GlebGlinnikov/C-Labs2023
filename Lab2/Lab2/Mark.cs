@@ -74,5 +74,6 @@ namespace Lab2
             string json = JsonSerializer.Serialize(this);
             File.WriteAllText(filePath, json);
         }
+
     }
 }
